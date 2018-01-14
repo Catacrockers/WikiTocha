@@ -2,7 +2,7 @@
 
 Esta es mi fucking **wiki**
 
-* [English](/en/en.md)
-* [Spanish](/sp/sp.md)
+* [English](/en/readme.md)
+* [Spanish](/sp/readme.md)
 
 **Have a look to the [Tocho Wiki](../../wiki)**
