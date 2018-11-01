@@ -21,6 +21,8 @@ If you want to be a good developer you just need attitude and know that the foll
         * > Good code is its own best documentation. As you're about to add a comment, ask yourself, 'How can I improve the code so that this comment isn't needed?
         * > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live
         * > Functions should only do one thing, do it right, and do only that.
+        * > Be kind with your team mates, keep your code clean.
+        * > Clean code reads like well-written prose.
     * **Bad developers**
         * > It works on my machine
         * > I don't make tests because I don't have time
