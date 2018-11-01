@@ -16,11 +16,11 @@ The benefits of being a good code developer that uses continuous integration and
 In this wiki I will cover the following topics with the goal of being a better developer:
 
 * [Coding conventions](https://github.com/Catacrockers/WikiTocha/blob/master/coding_conventions/coding_conventions.md)
-* [Writing clean code](https://github.com/Catacrockers/WikiTocha/blob/master/clean_code.md)
-* The [developer toolbelt](https://github.com/Catacrockers/WikiTocha/blob/master/developer_toolbelt.md) (IDE, StackOverflow, Github, power phrases, HackerRank)
-* [A guide for each language](https://github.com/Catacrockers/WikiTocha/blob/master/a_guide_for_each_language.md)
-* [Good programming practices](good-programming-practices) (testing, commits, code revission)
-* [Programming tools](https://github.com/Catacrockers/WikiTocha/blob/master/goog_practices.md)
-* [Tutorials](https://github.com/Catacrockers/WikiTocha/blob/master/tutorials.md)
-* [Unix commands](https://github.com/Catacrockers/WikiTocha/blob/master/unix_commands.md)
+* [Writing clean code](https://github.com/Catacrockers/WikiTocha/blob/master/clean_code/clean_code.md)
+* The [developer toolbelt](https://github.com/Catacrockers/WikiTocha/blob/master/developer_toolbelt/developer_toolbelt.md) (IDE, StackOverflow, Github, power phrases, HackerRank)
+* [A guide for each language](https://github.com/Catacrockers/WikiTocha/blob/master/guide_for_each_language/a_guide_for_each_language.md)
+* [Good programming practices](https://github.com/Catacrockers/WikiTocha/blob/master/good_practices/good_practices.md) (testing, commits, code revission)
+* [Programming tools](https://github.com/Catacrockers/WikiTocha/blob/master/programming_tools/programming_tools.md)
+* [Tutorials](https://github.com/Catacrockers/WikiTocha/blob/master/tutorials/tutorials.md)
+* [Unix commands](https://github.com/Catacrockers/WikiTocha/blob/master/unix_commands/unix_commands.md)
 * Useful links
