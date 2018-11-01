@@ -15,7 +15,7 @@ The benefits of being a good code developer that uses continuous integration and
 
 In this wiki I will cover the following topics with the goal of being a better developer:
 
-* [Coding conventions](Coding-conventions)
+* [Coding conventions](https://github.com/Catacrockers/WikiTocha/blob/master/coding_conventions.md)
 * [Writing clean code](clean-code)
 * The [developer toolbelt](developer-toolbelt) (IDE, StackOverflow, Github, power phrases, HackerRank)
 * [A guide for each language](guide-for-each-language)
