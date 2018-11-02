@@ -29,3 +29,4 @@ Function structure must be guided by
 + no `boolean` arguments (it means the functions does 2 things)
 + don't use output arguments
 + don't pass `null` into functions (it is like a boolean)
++ place most used funcions at the top of the class
