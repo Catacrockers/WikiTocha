@@ -26,5 +26,6 @@ Functions follow these rules:
 ### Function structure
 Function structure must be guided by
 + 3 arguments maximum (the same for constructors, setters can be used, or maps passed as argument)
-+ no boolean arguments (it means the functions does 2 things)
++ no `boolean` arguments (it means the functions does 2 things)
 + don't use output arguments
++ don't pass `null` into functions (it is like a boolean)
