@@ -31,3 +31,4 @@ Function structure must be guided by
 + don't pass `null` into functions (it is like a boolean)
 + place most used funcions at the top of the class
 + Tell, don't ask: tell objects what to do, don't ask for their state. Avoid query functions.
++ Law of demeter: functions should not know about the entire navigation of the system. Don't call methods on objects that are returned from previous method.
