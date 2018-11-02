@@ -2,7 +2,7 @@
 
 Here is a handy guide for each language I use in programming. This guide gathers the best IDEs, tools, tutorials, etc organized by language.
 
-- [Python](python-guide)
+- [Python](https://github.com/Catacrockers/WikiTocha/blob/master/guide_for_each_language/python_guide.md)
 - C++
 - C
 - Java for Android
