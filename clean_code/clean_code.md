@@ -16,4 +16,9 @@ A very important aspect of clean code is naming because names are an oportunity 
 
 ## Functions
 
-Functions must do one thing, do it well and do it only. Functions should be 10 lines at maximum. They must be short, simple and well named.
+Functions follow these rules:
++ They are small
++ They have the right names: helping navigation through the code
++ Big functions are the place where classes hide
++ Functions do one thing, do it well and do it only
++ If you can extract one function from another, then thar funtions was not doing only one thing
