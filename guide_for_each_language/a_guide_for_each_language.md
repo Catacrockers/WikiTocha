@@ -6,6 +6,6 @@ Here is a handy guide for each language I use in programming. This guide gathers
 - C++
 - C
 - Java for Android
-- [Java](java-guide)
+- [Java](https://github.com/Catacrockers/WikiTocha/blob/master/guide_for_each_language/java_guide.md)
 - Bash
 - JavaScript
