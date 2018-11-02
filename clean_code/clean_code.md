@@ -22,3 +22,7 @@ Functions follow these rules:
 + Big functions are the place where classes hide
 + Functions do one thing, do it well and do it only
 + If you can extract one function from another, then thar funtions was not doing only one thing
+
+### Function structure
+Function structure must be guided by
++ 3 arguments maximum (the same for constructors)
