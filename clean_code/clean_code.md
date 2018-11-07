@@ -41,3 +41,5 @@ Function structure must be guided by
 + Data structures are a group of data with no functions.
 + Concrete things must depend on abstract things. (**dependency inversion principle**)
 + Separate data from objets by putting layers between. The layer will depend on the application objects and on the data.
+
+### Test Driven Development
