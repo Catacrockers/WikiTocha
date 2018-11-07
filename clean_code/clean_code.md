@@ -36,3 +36,8 @@ Function structure must be guided by
 ### Code form
 + Comments should be rare: every time you write a comment you failed to make your code expresive
 + Format your code following a standard: white lines, spaces, indentation, line length, max lines per file.
++ Classes must be a group of functions that hide the implementation of the data they manipulate (**Tell don't ask principle**)
++ If a getter is necessary inside a class, it must hide the implementation of the data abstracting it.
++ Data structures are a group of data with no functions.
++ Concrete things must depend on abstract things. (**dependency inversion principle**)
++ Separate data from objets by putting layers between. The layer will depend on the application objects and on the data.
