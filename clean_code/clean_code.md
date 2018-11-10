@@ -44,9 +44,9 @@ Function structure must be guided by
 
 ### Test Driven Development
 + Uncle Bob's 3 laws
-  + Write *NO* production code except to pass a failing test
-  + Write only *enough* of a test to demonstrate a failure
-  + Write only *enough* production code to past the test
+   1 Write **NO** production code except to pass a failing test
+   2 Write only **enough** of a test to demonstrate a failure
+   3 Write only **enough** production code to past the test
  + TDD results in
    + much less time debugging
    + relyable low level documentation
