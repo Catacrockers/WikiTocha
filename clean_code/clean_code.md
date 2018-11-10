@@ -45,4 +45,5 @@ Function structure must be guided by
 ### Test Driven Development
 + Uncle Bob's 3 laws
   + Write *NO* production code except to pass a failing test
-  + Write only enough of a test to demonstrate a failure
+  + Write only *enough* of a test to demonstrate a failure
+  + Write only *enough* production code to past the test
