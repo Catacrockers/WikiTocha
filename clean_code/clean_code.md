@@ -43,3 +43,6 @@ Function structure must be guided by
 + Separate data from objets by putting layers between. The layer will depend on the application objects and on the data.
 
 ### Test Driven Development
++ Uncle Bob's 3 laws
+  + Write __NO__ production code except to pass a failing test
+  + 
