@@ -9,3 +9,4 @@ Here is a handy guide for each language I use in programming. This guide gathers
 * [Java](/programming_languages/java_guide.md)
 * Bash
 * JavaScript
+* [RegExp](/programming_languages/regexp_guide.md)
