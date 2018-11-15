@@ -6,41 +6,12 @@ GNU/Linux is based on Unix. This operative system has a kernel that allocates ti
 
 The sections contained here are the following:
 
-* [Unix commands](/unix/commands.md)
+* [Unix concepts](/unix/concepts.md), basic info to know about terminal, bash and UNIX.
+* [Unix commands](/unix/commands.md), basic and advanced commands and shortcuts to work from terminal.
+* [Pipes](/unix/pipes.md), how manage and redirect standard streams to processes and files.
+* [Cryptography](/unix/cryptography.md), keys like SSH, GPG, how to create them and how manage keys and passwords.
 
-## Terminology
-
-* **/**: Slash.
-* **~**: Home path
-* **.**: Current directory.
-* **..**: Parent directory.
-* **|**: Pipe.
-* **'**: Single quote.
-* **>**: Symbol to redirect the output of a command.
-* **>>**: Symbol to appends standard output to a file.
-* **<**: Symbol to redirect the input of a command.
-* **FHS**: Filesystem Hierarchy Standard.
-* **PID**: Process ID.
-* **terminal**: Device used for entering data into, and displaying data from, a computer.
-* **sudo**: It is a program for Unix-like computer operating systems that allows users to run programs with the security privileges of another user, by default the superuser.
-* **pipeline**: It is a sequence of processes chained together by their standard streams, so that the output of each process (stdout) feeds directly as input (stdin) to the next one.
-* **root**: The top of the file system hierarchy standard. Called */*.
-* **working directory**: It is a directory of a hierarchical file system, if any, dynamically associated with each process.
-* **Hardware**: Computer hardware refers to the physical parts of a computer and related devices.
-* **Software**: Computer software is a general term that describes computer programs. Related terms such as software programs, applications, scripts, and instruction sets all fall under the category of computer software.
-
-## Shorcuts
-
-In order to manage the terminal, you need to know some shortcuts to make your life easy and send signals.
-
-| Command   | Meaning |
-|:----------:|:-------------|
-| Control + z | Suspend the process running in the foreground = send SIGSTOP signal |
-| Control + c | Kill the process running in the foreground = send SIGINT signal |
-| Control + shift + C | Copy selected terminal text |
-| Control + shift + V | Paste previous copy/cut text into terminal |
-
-## Manuals
+# Manuals
 
 If you need to learn about any command, you have several ways to do this.
 
