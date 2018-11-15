@@ -22,7 +22,7 @@ In this wiki I will cover the following topics with the goal of being a better d
 * [Good programming practices](https://github.com/Catacrockers/WikiTocha/blob/master/good_practices/good_practices.md) (testing, commits, code revission)
 * [Programming tools](https://github.com/Catacrockers/WikiTocha/blob/master/programming_tools/programming_tools.md)
 * [Tutorials](https://github.com/Catacrockers/WikiTocha/blob/master/tutorials/tutorials.md)
-* [Unix commands](https://github.com/Catacrockers/WikiTocha/blob/master/unix_commands/unix_commands.md)
+* [Unix](/unix/main.md), Unix knowledge, commands, scripts, etc...
 * Useful links
 
 #
