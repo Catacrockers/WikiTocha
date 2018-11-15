@@ -15,8 +15,9 @@ The sections contained here are the following:
 
 If you need to learn about any command, you have several ways to do this.
 
-* ```man $(command)```: man is an interface to the on-line reference manuals. Each page argument given to man is normally the name of a program, utility or function.
-* ```tldr $(command)```: Alternative manual, with several command line clients, in example Python to check command description and useful examples. Require install the package for your distro. This command have REALLY good examples.
+* [Man](https://linux.die.net/man/): Usage ```man $(command)```: man is an interface to the on-line reference manuals. Each page argument given to man is normally the name of a program, utility or function.
+* [TLDR](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read), install with ```sudo npm install -g tldr```, require nodeJS. Usage: ```tldr $(command)```: Alternative manual, with several command line clients, in example Python to check command description and useful examples. Require install the package for your distro. This command have REALLY good examples.
+* [Cheat](https://github.com/chrisallenlane/cheat), install with ```sudo pip install cheat```, require python pip.
 
 # Cheatsheets
 
