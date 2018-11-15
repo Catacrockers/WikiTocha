@@ -6,7 +6,7 @@ GNU/Linux is based on Unix. This operative system has a kernel that allocates ti
 
 The sections contained here are the following:
 
-* [Unix commands](/unix_commands/commands.md)
+* [Unix commands](/unix/commands.md)
 
 ## Terminology
 

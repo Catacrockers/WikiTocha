@@ -25,4 +25,7 @@ In this wiki I will cover the following topics with the goal of being a better d
 * [Unix](/unix/main.md), Unix knowledge, commands, scripts, etc...
 * Useful links
 
-#
+# Organization
+
+* es: All pages in Spanish using Markdown
+* en: All pages in English using Markdown
