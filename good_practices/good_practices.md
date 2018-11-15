@@ -8,7 +8,7 @@ Here are some good programming practices, general for any languages, that stick 
 
 ## 1. Static Checking
 
-Static checking provides bug detection before runtime, like wrong types, sintaxis and structure. Many IDEs provide good tools for static checking (even for programming languages that are not statically-typed), which saves a lot of time in writing code. 
+Static checking provides bug detection before runtime, like wrong types, sintaxis and structure. Many IDEs provide good tools for static checking (even for programming languages that are not statically-typed), which saves a lot of time in writing code.
 
 You can find some tools for static checking in the following list categorized by programming language:
 
@@ -16,13 +16,13 @@ You can find some tools for static checking in the following list categorized by
 
 ## 2. Code Review
 
-Code review is the practice of **checking and discussing code written by others**. The main purpose is **improving the code** quality by finding bugs, making the code clearer, anticipating problems, checking consistency with style standards, etc. 
+Code review is the practice of **checking and discussing code written by others**. The main purpose is **improving the code** quality by finding bugs, making the code clearer, anticipating problems, checking consistency with style standards, etc.
 
 Also another goal of code review is **improving the programmer** by learning and teaching each others. It is a way of conversation between programmers using the code review as context.
 
 Some concepts to have in mind when reviewing code are:
 - **Don't repeat yourself**: avoid duplicated code, DRY the code out
-- **Put comments where needed**: good comments are those that explain assumptions, specifications for funtions or links from where the code was copied, inspired. Bad comments are those that try to explain the code because of *bad naming* or because a *method* is needed. 
+- **Put comments where needed**: good comments are those that explain assumptions, specifications for funtions or links from where the code was copied, inspired. Bad comments are those that try to explain the code because of *bad naming* or because a *method* is needed.
 - **Have one purpose for each variable**: name the variable so it self-explains what its purpose is
 - **Use good names**: take your time to think good names for methods, classes, variables. Names should describe precisely what the code does so you don't need comments.
 - **Don't use global variables**
@@ -53,5 +53,20 @@ It is impossible to delegate responsibility for implementing a method unless you
 
 Specification precondition is described by the word *requires*. Specification postcondition is indicated by the word *effects*. The precondition is and obligation on the client or caller of the method. The postcondition is an obligation of the implementer of the method.
 
+# Things to improve
 
+## Code analysis
 
+* [John Carmack talks about static code analysis](http://www.viva64.com/en/a/0087/)
+* [Codacy manager for Static Code Analysis](http://blog.codacy.com/2016/02/08/automate-your-code-reviews-with-codacy/)
+* [GNU Code analysis](https://www.gnu.org/software/hurd/open_issues/code_analysis.html)
+* [List of static code analizers](http://spinroot.com/static/)
+* [Sonar manager for Static Code Analysis](https://en.wikipedia.org/wiki/SonarQube)
+
+## Coding styles and good practices
+
+* [Best coding practices](https://en.wikipedia.org/wiki/Best_coding_practices)
+
+# Things to avoid
+
+* [Anti-Patters](https://en.wikipedia.org/wiki/Anti-pattern), that shall be avoid in Organization, project management and Software

@@ -10,9 +10,13 @@ Here are some fundamental programming tools for control version, code analysis, 
 
 # Continuous integration
 
-## Jenkins
+## Tools
 
-* **TODO**
+* [Codacy](https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy)
+* [SonarQube](http://www.sonarqube.org/), Software analytics, sonar self-hosted.
+* [Travis CI](https://docs.travis-ci.com/user/getting-started/), GNU/Linux & Mac test code
+* [Jenkins](https://jenkins.io/),
+* [Pylint](https://www.pylint.org/), Python code analysis
 
 # Virtualization
 

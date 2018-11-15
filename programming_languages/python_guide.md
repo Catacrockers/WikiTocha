@@ -38,7 +38,7 @@ It is important to set a **coding convention** or **style guide** before you sta
 
 The style guide must define the way you name projects, classes, functions and variables.
 
-You can use **pylint** for automating rules in style, so you don't have to manually revise the code.
+You can use [pylint](http://mascandobits.es/programacion/integracion-de-pylint/), to test your python scripts. This tool is designed for automating rules in style, so you don't have to manually revise the code.
 
 # Virtual environments
 
@@ -71,6 +71,10 @@ To use C libraries, [take a look](https://docs.python.org/3.6/extending/extendin
 * [Unit test python guide](http://docs.python-guide.org/en/latest/writing/tests/)
 * [Unit test reference](https://docs.python.org/3/library/unittest.html)
 
-# Resources
+# References
 
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), scripting language. Recommended for non-critical crossplatform algorithms.
+* [Python guide](http://docs.python-guide.org/en/latest/), all info you need.
+* [Pip](https://pypi.python.org/pypi/pip), the PyPA recommended tool for installing Python packages.
+* [The zen of python](https://www.python.org/dev/peps/pep-0020/), Tim Peters recommends
 * [Virtual environment](https://itsfoss.com/python-setup-linux/)

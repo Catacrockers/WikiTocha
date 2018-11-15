@@ -1,10 +1,10 @@
 # C guide
 
-## Why programming in C/CPP
+# Why programming in C/CPP
 
 C is a high-level programming language that was first developed by Dennis Ritchie at Bell Labs in the early 1970s. Unix was one of the first operating systems to be written in C. Microsoft Windows, Mac OS X, and GNU/Linux are also written in C. Lots of other high-level languages like Perl, PHP, Python, R, Matlab, Mathematica, etc, are written in C.
 
-### Virtues of C
+## Virtues of C
 
 * It's fast (it's a compiled language and so is close to the machine hardware)
 * It's portable (you can compile you program to run on just about any hardware platform out there)
@@ -14,7 +14,7 @@ C is a high-level programming language that was first developed by Dennis Ritchi
 * You have direct access to memory
 * You have access to low-level system features if needed
 
-### Challenges of using C
+## Challenges of using C
 
 * The language is small (but there are many APIs)
 * It's easy to get into trouble, e.g. with direct memory access & pointers
@@ -22,11 +22,14 @@ C is a high-level programming language that was first developed by Dennis Ritchi
 * You must manage memory yourself
 * Sometimes code is more verbose than in high-level scripting languages like Python, R, etc
 
-## How programming in C/CPP
+# How programming in C/CPP
 
 A lot of books focus on Object-oriented programming (C++), but it is important to master C creating fiable algorithms.
 
-### Concepts
+* [What is a compiler](https://en.wikipedia.org/wiki/Compiler)
+* [Source to source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+
+## Concepts
 
 * [Basic definitions](http://www.cprogramming.com/compilingandlinking.html)
 * [Header vs source file](http://stackoverflow.com/questions/3482948/any-fundamental-difference-between-source-and-header-files-in-c)
@@ -34,7 +37,7 @@ A lot of books focus on Object-oriented programming (C++), but it is important t
 * [How to link a library](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
 * [How to debug with GDB](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb)
 
-### Books
+## Books
 
 Some books I love it:
 
@@ -43,7 +46,7 @@ Some books I love it:
 * [Principios y algoritmos de concurrencia](https://gallir.wordpress.com/principios-de-concurrencia/), basic Knowledge about process.
 * [Secure Coding in C and C++, 2nd Edition](http://www.cert.org/secure-coding/publications/books/secure-coding-c-c-second-edition.cfm?)
 
-### Websites
+## Websites
 
 Some interesting websites to improve programming skills:
 
@@ -56,7 +59,7 @@ Some interesting websites to improve programming skills:
 * [Cplusplus reference](http://www.cplusplus.com/reference/), vgoni prefer this website for C++
 * [Learning C++ from another languages](https://isocpp.org/faq), a very complete guide to learn.
 
-### Online social networks
+## Online social networks
 
 Best way to learn is read or work in free repositories, answer questions, etc...
 
@@ -65,10 +68,14 @@ Best way to learn is read or work in free repositories, answer questions, etc...
 * [Bitbucket](https://bitbucket.org)
 * [Free software foundation](https://www.fsf.org/)
 
-### Advanced C++
+## Advanced C++
 
 * [Domining C++](/en/Guide-cpp-advanced)
 
-## Bibliography
+# Bibliography
 
 * [Gribblelab CBootcamp](http://gribblelab.org/CBootcamp/1_Why_Program_In_C.html), very interesting post.
+* [C](https://en.wikipedia.org/wiki/C_(programming_language)), classic.
+* [Pre-process, compile, assembly and Loader](http://www.tenouk.com/ModuleW.html)
+* [C special string characters](https://en.wikibooks.org/wiki/C_Programming/Strings#Syntax)
+* [Pebble C SDK API](https://developer.pebble.com/docs/c/), example how a professional embebed C API works.

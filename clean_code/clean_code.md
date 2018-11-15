@@ -43,6 +43,7 @@ Function structure must be guided by
 + Separate data from objets by putting layers between. The layer will depend on the application objects and on the data.
 
 ### Test Driven Development
+
 + Uncle Bob's 3 laws
    - [x] Write **NO** production code except to pass a failing test
    - [x] Write only **enough** of a test to demonstrate a failure
@@ -50,6 +51,10 @@ Function structure must be guided by
  + TDD results in
    + much less time debugging
    + relyable low level documentation
-   + decoupled designs 
+   + decoupled designs
    + no fear to change and clean code
    + prevents code rot
+
+# References
+
+* [Test driven development](http://alexott.net/en/cpp/CppTestingIntro.html)
