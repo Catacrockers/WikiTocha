@@ -17,3 +17,9 @@ If you need to learn about any command, you have several ways to do this.
 
 * ```man $(command)```: man is an interface to the on-line reference manuals. Each page argument given to man is normally the name of a program, utility or function.
 * ```tldr $(command)```: Alternative manual, with several command line clients, in example Python to check command description and useful examples. Require install the package for your distro. This command have REALLY good examples.
+
+# Cheatsheets
+
+* [UNIX](https://en.wikipedia.org/wiki/Unix)
+* [Common linux commands](https://www.loggly.com/wp-content/uploads/2015/05/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf)
+* [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
