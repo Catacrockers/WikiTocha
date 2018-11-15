@@ -11,6 +11,10 @@
 1. Use brand colors as accents.
 1. Hang the bullets.
 
+# Source code comments
+
+* *TODO*
+
 # Bibliography
 
 * [Design Cheatsheet](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
