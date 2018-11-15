@@ -74,6 +74,7 @@ Best way to learn is read or work in free repositories, answer questions, etc...
 
 # Bibliography
 
+* [Should you learn C to "learn how the computer works"”"?](https://words.steveklabnik.com/should-you-learn-c-to-learn-how-the-computer-works)
 * [Gribblelab CBootcamp](http://gribblelab.org/CBootcamp/1_Why_Program_In_C.html), very interesting post.
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)), classic.
 * [Pre-process, compile, assembly and Loader](http://www.tenouk.com/ModuleW.html)
