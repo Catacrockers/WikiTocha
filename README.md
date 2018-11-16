@@ -4,7 +4,7 @@ This wiki is intended for personal use in terms of developing high quality code.
 
 ### [English ![gb_flag](https://github.com/RDCH106/flags/blob/master/flags/flags/flat/32/United-Kingdom.png)](en/INDEX.md)
 
-
+<br>
 
 # A Wiki "muy tocha" para desarrolladores!
 
