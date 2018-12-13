@@ -16,7 +16,7 @@ The benefits of being a good code developer that uses continuous integration and
 
 In this wiki I will cover the following topics with the goal of being a better developer:
 
-* [Acronyms](en/acronyms/main.md): A full set of jocosos acronyms.
+* [Acronyms](https://github.com/Catacrockers/WikiTocha/blob/master/en/acronyms/main.md): A full set of jocosos acronyms.
 * [Architectures](en/architectures/main.md): Each CPU is a world, lets get a general analysis for several architectures.
 * [Coding conventions](https://github.com/Catacrockers/WikiTocha/blob/master/coding_conventions/coding_conventions.md)
 * [Writing clean code](https://github.com/Catacrockers/WikiTocha/blob/master/en/clean_code/clean_code.md)
