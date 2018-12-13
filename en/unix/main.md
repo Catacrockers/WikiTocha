@@ -9,7 +9,7 @@ The sections contained here are the following:
 * [Unix concepts](https://github.com/Catacrockers/WikiTocha/blob/master/en/unix/concepts.md), basic info to know about terminal, bash and UNIX.
 * [Unix commands](https://github.com/Catacrockers/WikiTocha/blob/master/en/unix/commands.md), basic and advanced commands and shortcuts to work from terminal.
 * [Pipes](/unix/pipes.md), how manage and redirect standard streams to processes and files.
-* [Cryptography](/unix/cryptography.md), keys like SSH, GPG, how to create them and how manage keys and passwords.
+* [Cryptography](https://github.com/Catacrockers/WikiTocha/blob/master/en/unix/cryptography.md), keys like SSH, GPG, how to create them and how manage keys and passwords.
 
 # Manuals
 
