@@ -2,11 +2,11 @@
 
 Here is a handy guide for each language I use in programming. This guide gathers the best IDEs, tools, tutorials, etc organized by language.
 
-* [Python](/programming_languages/python_guide.md)
+* [Python](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_languages/python_guide.md)
 * C++
-* [C](/programming_languages/c_guide.md)
+* [C](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_languages/c_guide.md)
 * Java for Android
-* [Java](/programming_languages/java_guide.md)
+* [Java](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_languages/java_guide.md)
 * Bash
 * JavaScript
-* [RegExp](/programming_languages/regexp_guide.md)
+* [RegExp](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_languages/regexp_guide.md)
