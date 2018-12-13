@@ -25,7 +25,7 @@ In this wiki I will cover the following topics with the goal of being a better d
 * [Good programming practices](https://github.com/Catacrockers/WikiTocha/blob/master/en/good_practices/good_practices.md) (testing, commits, code revission)
 * [Programming tools](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_tools/programming_tools.md)
 * [Tutorials](https://github.com/Catacrockers/WikiTocha/blob/master/en/tutorials/tutorials.md)
-* [Unix](/unix/main.md): Unix knowledge, commands, scripts, etc...
+* [Unix](https://github.com/Catacrockers/WikiTocha/blob/master/en/unix/main.md): Unix knowledge, commands, scripts, etc...
 * [Workflow and methodologies](/workflow/main.md): Several workflows and methodologies to work within a team.
 * [Useful links](/useful_links/useful_links.md)
 
