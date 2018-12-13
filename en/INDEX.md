@@ -18,7 +18,7 @@ In this wiki I will cover the following topics with the goal of being a better d
 
 * [Acronyms](https://github.com/Catacrockers/WikiTocha/blob/master/en/acronyms/main.md): A full set of jocosos acronyms.
 * [Architectures](https://github.com/Catacrockers/WikiTocha/blob/master/en/architectures/main.md): Each CPU is a world, lets get a general analysis for several architectures.
-* [Coding conventions](https://github.com/Catacrockers/WikiTocha/blob/master/coding_conventions/coding_conventions.md)
+* [Coding conventions](https://github.com/Catacrockers/WikiTocha/blob/master/en/coding_conventions/coding_conventions.md)
 * [Writing clean code](https://github.com/Catacrockers/WikiTocha/blob/master/en/clean_code/clean_code.md)
 * The [developer toolbelt](https://github.com/Catacrockers/WikiTocha/blob/master/developer_toolbelt/developer_toolbelt.md) (IDE, StackOverflow, Github, power phrases, HackerRank)
 * [Programming languages](/programming_languages/main.md): A guide for each programming language.
