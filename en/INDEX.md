@@ -22,7 +22,7 @@ In this wiki I will cover the following topics with the goal of being a better d
 * [Writing clean code](https://github.com/Catacrockers/WikiTocha/blob/master/en/clean_code/clean_code.md)
 * The [developer toolbelt](https://github.com/Catacrockers/WikiTocha/blob/master/developer_toolbelt/developer_toolbelt.md) (IDE, StackOverflow, Github, power phrases, HackerRank)
 * [Programming languages](/programming_languages/main.md): A guide for each programming language.
-* [Good programming practices](https://github.com/Catacrockers/WikiTocha/blob/master/good_practices/good_practices.md) (testing, commits, code revission)
+* [Good programming practices](https://github.com/Catacrockers/WikiTocha/blob/master/en/good_practices/good_practices.md) (testing, commits, code revission)
 * [Programming tools](https://github.com/Catacrockers/WikiTocha/blob/master/programming_tools/programming_tools.md)
 * [Tutorials](https://github.com/Catacrockers/WikiTocha/blob/master/tutorials/tutorials.md)
 * [Unix](/unix/main.md): Unix knowledge, commands, scripts, etc...
