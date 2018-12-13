@@ -6,7 +6,7 @@ GNU/Linux is based on Unix. This operative system has a kernel that allocates ti
 
 The sections contained here are the following:
 
-* [Unix concepts](/unix/concepts.md), basic info to know about terminal, bash and UNIX.
+* [Unix concepts](https://github.com/Catacrockers/WikiTocha/blob/master/en/unix/concepts.md), basic info to know about terminal, bash and UNIX.
 * [Unix commands](/unix/commands.md), basic and advanced commands and shortcuts to work from terminal.
 * [Pipes](/unix/pipes.md), how manage and redirect standard streams to processes and files.
 * [Cryptography](/unix/cryptography.md), keys like SSH, GPG, how to create them and how manage keys and passwords.
