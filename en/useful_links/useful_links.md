@@ -6,6 +6,8 @@ Some links you must check
 
 + [Teach yourself programming in ten years](http://norvig.com/21-days.html)
 + [Manifesto for agile software development](https://agilemanifesto.org/)
++ [ReactiveX](http://reactivex.io/): Asynchronous programming
+with observable streams
 
 ## Software gurus
 
