@@ -1,6 +1,6 @@
 # Architectures
 
-* [ARM](/architectures/arm.md) architecture.
+* [ARM](https://github.com/Catacrockers/WikiTocha/blob/master/en/architectures/arm.md) architecture.
 
 # Assembly code
 
