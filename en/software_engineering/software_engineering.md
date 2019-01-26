@@ -20,7 +20,9 @@ The need of software engineering appears to solve the issues of low quality soft
 9. Operations and maintenance 
 
 
-## System Requirements Specification
+## Software Requirements Specification (SRS)
+
+A software requirements specification is a description of a software system to be developed. The software requirements specification lays out functional and non-functional requirements, and it may include a set of use cases that describe user interactions that the software must provide.
 
 ## Use cases
 
