@@ -1,3 +1,5 @@
+[Go to index page](https://github.com/Catacrockers/WikiTocha/blob/master/en/INDEX.md)
+
 # A guide for each language
 
 Here is a handy guide for each language I use in programming. This guide gathers the best IDEs, tools, tutorials, etc organized by language.
