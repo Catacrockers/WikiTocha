@@ -1,4 +1,6 @@
-# Writing clean code
+[Go to index page](https://github.com/Catacrockers/WikiTocha/blob/master/en/INDEX.md)
+
+Writing clean code
 
 A good developer must write clean code in order for the code to be robust, scalable, free from bugs, readable, testable, flexible.
 In this section several topics for writing clean code will be summarized.
