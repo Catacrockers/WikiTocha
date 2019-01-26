@@ -1,3 +1,5 @@
+[Go to index page](https://github.com/Catacrockers/WikiTocha/blob/master/en/INDEX.md)
+
 # Good programming practices
 
 Here are some good programming practices, general for any languages, that stick to the big 3 premises in software development (taken from [Software construction in Java](https://www.edx.org/es/course/software-construction-java-mitx-6-005-1x)):
