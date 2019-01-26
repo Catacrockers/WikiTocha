@@ -10,7 +10,8 @@ Some links you must check, and some good books to have in mind.
 + **Clean Code: A Handbook of Agile Software Craftsmanship** - Robert C. Martin
 + **Working Effectively with Legacy Code** - Michael Feathers
 + **Test Driven Development: By Example** - Kent Beck
-+ ** Design Patterns: Elements of Reusable Object-Oriented Software** - John Vlissides, Ralph Johnson, Richard Helm, Erich Gamma
++ **Design Patterns: Elements of Reusable Object-Oriented Software** - John Vlissides, Ralph Johnson, Richard Helm, Erich Gamma
++ **Refactoring Improving the Design of Existing Code** - Martin Fowler (with Kent Beck)
 
 ## About code development
 
