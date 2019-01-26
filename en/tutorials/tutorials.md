@@ -3,3 +3,7 @@
 # Tutorials
 
 Here is a collection of handy tutorials that teach interesting skills and concepts about programming.
+
+## Python
+
+[The Hitchhicker's guide to python](https://docs.python-guide.org/intro/learning/)
