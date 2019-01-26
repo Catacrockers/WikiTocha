@@ -13,11 +13,11 @@ The need of software engineering appears to solve the issues of low quality soft
 2. Requirement Gathering: Software Requirements Specification (SRS)
 3. System Analysis 
 4. Software Design: Architecture Description (AD)
-6) Coding 
-7) Testing (Idealy testing will be done at the same time as coding, TDD) 
-8) Integration 
-9) Deployment 
-10) Operations and maintenance 
+5. Coding 
+6. Testing (Idealy testing will be done at the same time as coding, TDD) 
+7. Integration 
+8. Deployment 
+9. Operations and maintenance 
 
 
 ## System Requirements Specification
