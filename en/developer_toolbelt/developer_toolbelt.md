@@ -1,3 +1,5 @@
+[Go to index page](https://github.com/Catacrockers/WikiTocha/blob/master/en/INDEX.md)
+
 # The Developer Toolbelt
 
 Every developer must have its working tools, consulting websites, good practices manual and power phrases for never losing the north when developing. 
