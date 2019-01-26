@@ -30,7 +30,3 @@ In this wiki I will cover the following topics with the goal of being a better d
 * [Workflow and methodologies](https://github.com/Catacrockers/WikiTocha/blob/master/en/workflow/main.md): Several workflows and methodologies to work within a team.
 * [Useful links](https://github.com/Catacrockers/WikiTocha/blob/master/en/useful_links/useful_links.md)
 
-# Organization
-
-* es: All pages in Spanish using Markdown
-* en: All pages in English using Markdown
