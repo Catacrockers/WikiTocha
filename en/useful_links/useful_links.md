@@ -1,6 +1,10 @@
 # Useful links
 
-Some links you must check
+Some links you must check, and some good books to have in mind.
+
+## Must read books
+
++ **Peopleware: Productive Projects and Teams** - Tom DeMarco, Timothy Lister
 
 ## About code development
 
