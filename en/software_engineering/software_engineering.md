@@ -6,5 +6,15 @@ This sections lists a set of techniques (including theories, methods, processes,
 
 ## System Requirements Specification
 
-## Architecture Description
+## Use cases
+
+## Architecture Description: Stakeholders and concerns
+
+## Architecture Description: diagrams, plantuml
+
+## Architecture Decision Records
+
+## Verification & Validation: testing, test plan
+
+## Monitoring: structured logging, centralized logs
 
