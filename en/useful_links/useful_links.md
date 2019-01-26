@@ -7,6 +7,7 @@ Some links you must check, and some good books to have in mind.
 + **Peopleware: Productive Projects and Teams** - Tom DeMarco, Timothy Lister
 + **Writing Effective Use Cases** - Alistair Cockburn
 + **USE-CASE 2.0** - Dr. Ivar Jacobson, Ian Spence, Kurt Bittner
++ **Clean Code: A Handbook of Agile Software Craftsmanship** - Robert C. Martin
 
 ## About code development
 
