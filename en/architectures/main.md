@@ -1,3 +1,5 @@
+[Go to index page](https://github.com/Catacrockers/WikiTocha/blob/master/en/INDEX.md)
+
 # Architectures
 
 * [ARM](https://github.com/Catacrockers/WikiTocha/blob/master/en/architectures/arm.md) architecture.
