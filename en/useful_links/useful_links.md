@@ -8,6 +8,7 @@ Some links you must check, and some good books to have in mind.
 + **Writing Effective Use Cases** - Alistair Cockburn
 + **USE-CASE 2.0** - Dr. Ivar Jacobson, Ian Spence, Kurt Bittner
 + **Clean Code: A Handbook of Agile Software Craftsmanship** - Robert C. Martin
++ **Working Effectively with Legacy Code** - Michael Feathers
 
 ## About code development
 
