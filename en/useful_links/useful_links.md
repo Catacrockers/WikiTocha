@@ -9,6 +9,7 @@ Some links you must check, and some good books to have in mind.
 + **USE-CASE 2.0** - Dr. Ivar Jacobson, Ian Spence, Kurt Bittner
 + **Clean Code: A Handbook of Agile Software Craftsmanship** - Robert C. Martin
 + **Working Effectively with Legacy Code** - Michael Feathers
++ **Test Driven Development: By Example** - Kent Beck
 
 ## About code development
 
