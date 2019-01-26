@@ -31,8 +31,8 @@ A software requirements specification is a description of a software system to b
 In software engineering, a use case is a list of actions or event steps typically defining the interactions between an actor and a system to achieve a goal. The actor can be a human or other external system. Use case analysis is a valuable requirement analysis technique that is often used in SRS and test plans. 
 
 Some interesting books on use cases are
-+ Writing Effective Use Cases - Alistair Cockburn
-+ USE-CASE 2.0 - Dr. Ivar JacobsonIan SpenceKurt Bittner
++ **Writing Effective Use Cases** - Alistair Cockburn
++ **USE-CASE 2.0** - Dr. Ivar Jacobson, Ian Spence, Kurt Bittner
 
 
 ## Architecture Description: Stakeholders and concerns
