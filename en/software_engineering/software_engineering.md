@@ -3,6 +3,12 @@
 This sections lists a set of techniques (including theories, methods, processes, tools and languages) for developing and operating production software-intensive systems meeting defined standards of quality.
 
 ## Software Engineering
+A good definition of software enginnering:
+
+> The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software"—IEEE Standard Glossary of Software Engineering Terminology
+
+The need of software engineering appears to solve the issues of low quality software proyects. Software engineering defines software development lifecycle of a project.
+
 
 ## System Requirements Specification
 
