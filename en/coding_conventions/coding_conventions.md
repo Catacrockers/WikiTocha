@@ -14,3 +14,4 @@ The benefits of coding conventions are:
 Here are some coding conventions for languages I use the most:
 - **Python:** [pep8](https://www.python.org/dev/peps/pep-0008/) , [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
 - **C++:** [Google style guide](https://google.github.io/styleguide/cppguide.html)
+- **Java:** [Google style guide](https://google.github.io/styleguide/javaguide.html), [Oracle coding conventions](https://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
