@@ -5,6 +5,8 @@ Some links you must check, and some good books to have in mind.
 ## Must read books
 
 + **Peopleware: Productive Projects and Teams** - Tom DeMarco, Timothy Lister
++ **Writing Effective Use Cases** - Alistair Cockburn
++ **USE-CASE 2.0** - Dr. Ivar Jacobson, Ian Spence, Kurt Bittner
 
 ## About code development
 
