@@ -1,4 +1,4 @@
-[Go to index page](https://github.com/Catacrockers/WikiTocha/blob/master/en/INDEX.md)
+[Go to Index page](https://github.com/Catacrockers/WikiTocha/blob/master/en/INDEX.md)
 
 # Acronyms
 
