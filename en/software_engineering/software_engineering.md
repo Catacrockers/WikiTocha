@@ -9,7 +9,7 @@ A good definition of software enginnering:
 
 > The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software"—IEEE Standard Glossary of Software Engineering Terminology
 
-The need of software engineering appears to solve the issues of low quality software proyects. Software engineering defines software development lifecycle of a project, which can be sumarized in the following steps:
+The need of software engineering arises to solve the issues of low quality software proyects. Software engineering defines software development lifecycle of a project, which can be sumarized in the following steps:
 
 1. Communication of the project to the team
 2. Requirement Gathering: Software Requirements Specification (SRS)
