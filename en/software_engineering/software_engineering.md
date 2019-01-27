@@ -51,9 +51,11 @@ Architecture models can take various forms, including text, informal drawings, d
 
 ADs need to address concerns of relevance to many stakeholders. Some issues may be technical but many issues are not.
 
-### Stakeholders and concerns
+### Stakeholder's concerns, viewpoints and views
 
 Stakeholders are individual, team, organizations, having an interest in a system. Stakeholders have **concerns** or interest in a system relevant to one or more of its stakeholders. A **concern** pertains to any influence on a system in its environment, including developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences.
+
+The models of an architecture description are organized into multiple **views** of the architecture such that "each view addresses specific concerns of interest to different stakeholders of the system". An **architecture viewpoint** is a way of looking at a system. Each view in an architecture description should have a viewpoint documenting the concerns and stakeholders it is addressed to, and the **model kinds**, notations and modeling conventions it utilizes.
 
 
 ## Architecture Description: diagrams, plantuml
