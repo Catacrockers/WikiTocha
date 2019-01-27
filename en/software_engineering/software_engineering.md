@@ -64,6 +64,8 @@ A **model kind** is a group of conventions for a type of modeling. An architectu
 Some useful abd common models are:
 - raml API
 - JSON schema
+- sequence diagram
+- use case diagram
 
 ## Architecture Decision Records
 
