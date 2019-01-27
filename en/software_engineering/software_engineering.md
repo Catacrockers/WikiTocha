@@ -21,8 +21,6 @@ The need of software engineering appears to solve the issues of low quality soft
 8. Deployment 
 9. Operations and maintenance 
 
-A powerful tool for generating those diagrams is [**plantuml**](http://plantuml.com/). 
-
 ## Software Requirements Specification (SRS)
 
 A software requirements specification is a description of a software system to be developed. The software requirements specification lays out functional and non-functional requirements, and it may include a set of use cases that describe user interactions that the software must provide.
@@ -70,6 +68,8 @@ Some useful abd common models are:
 - state machine diagram
 - activity diagram
 - component diagram
+
+A powerful tool for generating those diagrams is [**plantuml**](http://plantuml.com/). This a java library that can be easily installed and used from many IDEs to automatically generate this kind of diagrams and integrate them with project documentation.
 
 ## Architecture Decision Records
 
