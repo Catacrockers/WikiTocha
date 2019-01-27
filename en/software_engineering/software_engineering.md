@@ -21,6 +21,7 @@ The need of software engineering appears to solve the issues of low quality soft
 8. Deployment 
 9. Operations and maintenance 
 
+A powerful tool for generating those diagrams is [**plantuml**](http://plantuml.com/). 
 
 ## Software Requirements Specification (SRS)
 
