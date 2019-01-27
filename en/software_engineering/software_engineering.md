@@ -67,6 +67,8 @@ Some useful abd common models are:
 - sequence diagram
 - use case diagram
 - state machine diagram
+- activity diagram
+- component diagram
 
 ## Architecture Decision Records
 
