@@ -45,9 +45,15 @@ Once the SRS is approved, it is time to start with **architecture description** 
 
 ## Architecture Description: Stakeholders and concerns
 
-Architecture description defines the practices, techniques and types of representations used by software architects to record a software architecture. 
+Architecture description defines the practices, techniques and types of representations used by software architects to record a software architecture. The **ISO/IEC/IEEE 42010** standard defines how to write an architecture description document.
 
 Architecture models can take various forms, including text, informal drawings, diagrams or other formalisms. An architecture description will often employ several different **model kinds** to effectively address a variety of audiences, the **stakeholders** (such as end users, system owners, software developers, system engineers, program managers) and a variety of **architectural concerns** (such as functionality, safety, delivery, reliability, scalability).
+
+ADs need to address concerns of relevance to many stakeholders. Some issues may be technical but many issues are not.
+
+### Stakeholders
+
+### Concerns
 
 ## Architecture Description: diagrams, plantuml
 
