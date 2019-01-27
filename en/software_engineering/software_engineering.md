@@ -63,6 +63,10 @@ A **model kind** is a group of conventions for a type of modeling. An architectu
 
 ## Architecture Decision Records
 
+An architectural decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences. The decision will have a status (proposed, accepted, denied). 
+
+A modern version of ADR are [Lightweight Architecture Decision Records](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records), which is a reduced and readable version of the decision records that is stored alongside source control for the sake of synchronicity with the code itself. 
+
 ## Verification & Validation: testing, test plan
 
 ## Monitoring: structured logging, centralized logs
