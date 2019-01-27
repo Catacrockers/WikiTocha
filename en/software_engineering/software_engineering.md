@@ -56,7 +56,7 @@ Stakeholders are individual, team, organizations, having an interest in a system
 
 The models of an architecture description are organized into multiple **views** of the architecture such that "each view addresses specific concerns of interest to different stakeholders of the system". An **architecture viewpoint** frames one or more concerns and governs one architecture view. Each viewpoint is composed by one or more **model kinds**, notations and modeling conventions it utilizes.
 
-## 4. Architecture Description: model kinds
+### 3.2 Model kinds and models
 
 A **model kind** is a group of conventions for a type of modeling. An architecture view consists of multiple models, each following one model kind (diagrams, repositories, APIs, pictures, ). 
 
@@ -71,13 +71,13 @@ Some useful abd common models are:
 
 A powerful tool for generating those diagrams is [**plantuml**](http://plantuml.com/). This a java library that can be easily installed and used from many IDEs to automatically generate this kind of diagrams and integrate them with project documentation.
 
-## 5. Architecture Decision Records
+## 4. Architecture Decision Records
 
 An architectural decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences. The decision will have a status (proposed, accepted, denied). 
 
 A modern version of ADR are [Lightweight Architecture Decision Records](https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records), which is a reduced and readable version of the decision records that is stored alongside source control for the sake of synchronicity with the code itself. 
 
-## 6. Verification & Validation: testing, test plan
+## 5. Verification & Validation: testing, test plan
 
-## 7. Monitoring: structured logging, centralized logs
+## 6. Monitoring: structured logging, centralized logs
 
