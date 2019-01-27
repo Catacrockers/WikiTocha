@@ -51,9 +51,10 @@ Architecture models can take various forms, including text, informal drawings, d
 
 ADs need to address concerns of relevance to many stakeholders. Some issues may be technical but many issues are not.
 
-### Stakeholders
+### Stakeholders and concerns
 
-### Concerns
+Stakeholders are individual, team, organizations, having an interest in a system. Stakeholders have **concerns** or interest in a system relevant to one or more of its stakeholders. A **concern** pertains to any influence on a system in its environment, including developmental, technological, business, operational, organizational, political, economic, legal, regulatory, ecological and social influences.
+
 
 ## Architecture Description: diagrams, plantuml
 
