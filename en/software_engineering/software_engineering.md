@@ -39,6 +39,10 @@ Some interesting books on use cases are
 
 ## Architecture Description: Stakeholders and concerns
 
+Architecture description defines the practices, techniques and types of representations used by software architects to record a software architecture. 
+
+Architecture models can take various forms, including text, informal drawings, diagrams or other formalisms. An architecture description will often employ several different **model kinds** to effectively address a variety of audiences, the **stakeholders** (such as end users, system owners, software developers, system engineers, program managers) and a variety of **architectural concerns** (such as functionality, safety, delivery, reliability, scalability).
+
 ## Architecture Description: diagrams, plantuml
 
 ## Architecture Decision Records
