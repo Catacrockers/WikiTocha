@@ -66,6 +66,7 @@ Some useful abd common models are:
 - JSON schema
 - sequence diagram
 - use case diagram
+- state machine diagram
 
 ## Architecture Decision Records
 
