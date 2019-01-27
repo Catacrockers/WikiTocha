@@ -59,7 +59,11 @@ The models of an architecture description are organized into multiple **views** 
 
 ## Architecture Description: model kinds
 
-A **model kind** is a group of conventions for a type of modeling. An architecture view consists of multiple models, each following one model kind (diagrams, repositories, APIs, pictures, )
+A **model kind** is a group of conventions for a type of modeling. An architecture view consists of multiple models, each following one model kind (diagrams, repositories, APIs, pictures, ). 
+
+Some useful abd common models are:
+- raml API
+- JSON schema
 
 ## Architecture Decision Records
 
