@@ -25,7 +25,7 @@ The need of software engineering arises to solve the issues of low quality softw
 
 A software requirements specification is a description of a software system to be developed. The software requirements specification lays out functional and non-functional requirements, and it may include a set of use cases that describe user interactions that the software must provide.
 
-[IEEE 380](http://www.cse.msu.edu/~cse870/IEEEXplore-SRS-template.pdf) provides a standard for SRS. It is important that the first part of the SRS refelcts the business language and goals, and the business managers must agree with the requirements. 
+[IEEE 380](http://www.cse.msu.edu/~cse870/IEEEXplore-SRS-template.pdf) provides a standard for SRS. It is important that the first part of the SRS reflects the business people language and vision, and the business people must agree with the requirements. 
 
 The SRS is a **living document** that must reflect the current state of the project, and must be updated if requirements change during the project.
 
