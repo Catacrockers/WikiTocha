@@ -2,7 +2,7 @@
 
 # Software Engineering
 
-This section gathers and presents a set of techniques (including theories, methods, processes, tools and languages) for developing and operating production software-intensive systems meeting defined standards of quality.
+This section gathers a set of techniques (including theories, methods, processes, tools and languages) for developing and operating production software-intensive systems meeting defined standards of quality. That is what software engineering is about.
 
 ## Software Engineering
 A good definition of software enginnering:
