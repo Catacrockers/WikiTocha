@@ -47,7 +47,8 @@ Python can be used in a virtual environment like [Conda](https://conda.io/docs/i
 ## Install Conda
 
 Usually it will be enough with miniconda, as you can later download other packages. So you must follow these steps:
-1.- [Download](https://conda.io/en/latest/miniconda.html) Miniconda: For example python 3.7 for linux 64 [link](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
+1. **[Download](https://conda.io/en/latest/miniconda.html) Miniconda**: For example python 3.7 for linux 64 [link](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
+2. **[Install miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)**: Follow the instructions for your system and package.
 
 ## Conda cheatsheet
 
