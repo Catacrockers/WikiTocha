@@ -35,7 +35,9 @@ A short guide for installing and configuring [visual studio code for python](htt
 1. **[Download](https://code.visualstudio.com/) Visual Studio Code**
 2. **[Installation](https://code.visualstudio.com/docs/setup/linux)**
 3. Add Visual Studio Code **extensions** for python:
-  * Python extension for Visual Studio Code: Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
+   * Python extension for Visual Studio Code: Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
+4. **[User Interface Guide](https://code.visualstudio.com/docs/getstarted/userinterface)**
+5. **[User and workspace settings](https://code.visualstudio.com/docs/getstarted/settings)**
   
 
 # Style
