@@ -29,6 +29,12 @@ The IDEs I prefer for python are:
 * Visual Studio Code
 * Pycharm
 
+## Visual Studio Code
+
+A short guide for installing and configuring visual studio code for python.
+1. **[Download](https://code.visualstudio.com/) Visual Studio Code**
+2. **[Installation](https://code.visualstudio.com/docs/setup/linux)**
+
 # Style
 
 It is important to set a **coding convention** or **style guide** before you start developing. Some popular coding conventions are:
@@ -52,25 +58,26 @@ Usually it will be enough with miniconda, as you can later download other packag
 
 ## Conda cheatsheet
 
-```
-conda --version                             # Get the current version
-conda info                                  # Verify conda is installed, check version 
-conda update conda                          # Updates version if available
+Commands | Description
+-------- | -----------
+```conda --version``` | Get the current version
+```conda info                                  | Verify conda is installed, check version 
+```conda update conda                          | Updates version if available
 
-conda create -n ENVIRONMENT python=2.7      # Creates an environment for a python distribution
-conda install PACKAGENAME                   # Installs a package included in Anaconda
-source activate ENVIRONMENT                 # Activates environment
-source deactivate ENVIRONMENT               # Deactivates environment
-conda env remove -n ENVIRONMENT             # Removes environment
-conda env create -f env.yml                 # Load environment from a file
-conda env export > env.yml                  # Save current environment to a file
-conda env export -n ENVIRONMENT > env.yml   # Save environment to a file
-conda env update < env.yml                  # Update current environment from file
-conda env update -n ENVIRONMENT < env.yml   # Update environment from file
+``` create -n ENVIRONMENT python=2.7```| Creates an environment for a python distribution
+```conda install PACKAGENAME ```                  | Installs a package included in Anaconda
+```source activate ENVIRONMENT  ```               | Activates environment
+```source deactivate ENVIRONMENT```               | Deactivates environment
+```conda env remove -n ENVIRONMENT  ```           | Removes environment
+```conda env create -f env.yml  ```               | Load environment from a file
+```conda env export > env.yml    ```              | Save current environment to a file
+```conda env export -n ENVIRONMENT > env.yml```   | Save environment to a file
+```conda env update < env.yml     ```             | Update current environment from file
+```conda env update -n ENVIRONMENT < env.yml```   | Update environment from file
 
-conda list                                  # View list of packages and versions installed in active environment
-conda list | grep pytest                    # Check if pytest installed in current environment
-```
+```conda list     ```                             | View list of packages and versions installed in active environment
+```conda list | grep pytest```                    | Check if pytest installed in current environment
+
 Other conda cheatsheets:
 * [kapeli cheatsheet](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
 * [ugo_py_doc cheatsheet](https://ugoproto.github.io/ugo_py_doc/JN_CS/)
