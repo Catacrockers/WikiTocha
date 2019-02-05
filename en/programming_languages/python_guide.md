@@ -70,8 +70,8 @@ conda list | grep pytest                    # Check if pytest installed in curre
 
 ```
 Other conda cheatsheets:
-* [https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index](kapeli cheatsheet)
-* [https://ugoproto.github.io/ugo_py_doc/JN_CS/](ugo_py_doc cheatsheet)
+* [kapeli cheatsheet](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
+* [ugo_py_doc cheatsheet](https://ugoproto.github.io/ugo_py_doc/JN_CS/)
 
 # Find packages
 
