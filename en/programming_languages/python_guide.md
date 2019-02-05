@@ -50,11 +50,16 @@ Python can be used in a virtual environment like [Conda](https://conda.io/docs/i
 
 ```
 conda --version                             # Get the current version
+conda info                                  # Verify conda is installed, check version 
 conda update conda                          # Updates version if available
-conda create --name yourname python=2.7     # Creates an environment for a python distribution
+conda create -n ENVIRONMENT python=2.7      # Creates an environment for a python distribution
 conda install PACKAGENAME                   # Installs a package included in Anaconda
 source activate ENVIRONMENT                 # Activates environment
 source deactivate ENVIRONMENT               # Deactivates environment
+conda env remove -n ENVIRONMENT             # Removes environment
+conda env export > env.yml                  # Save current environment to a file
+conda env export -n ENVIRONMENT > env.yml   # Save environment to a file
+conda env create -f env.yml                 # Load environment from a file
 ```
 
 # Find packages
