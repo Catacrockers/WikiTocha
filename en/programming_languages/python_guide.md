@@ -63,11 +63,15 @@ Usually it will be enough with miniconda, as you can later download other packag
 
 ## Conda cheatsheet
 
-Commands | Description
+### **General**
+Command | Description
 -------- | -----------
 ```conda --version``` | Get the current version
 ```conda info```                                  | Verify conda is installed, check version 
 ```conda update conda```                          | Updates version if available
+### **Managing environments**
+Command | Description
+-------- | -----------
 ``` create -n ENVIRONMENT python=2.7```  | Creates an environment for a python distribution
 ```conda install PACKAGENAME ```                  | Installs a package included in Anaconda
 ```source activate ENVIRONMENT  ```               | Activates environment
@@ -78,6 +82,9 @@ Commands | Description
 ```conda env export -n ENVIRONMENT > env.yml```   | Save environment to a file
 ```conda env update < env.yml     ```             | Update current environment from file
 ```conda env update -n ENVIRONMENT < env.yml```   | Update environment from file
+### **Managing packages**
+Command | Description
+-------- | -----------
 ```conda list     ```                             | View list of packages and versions installed in active environment
 <code>conda list &#124; grep pytest</code>        | Check if pytest installed in current environment
 
