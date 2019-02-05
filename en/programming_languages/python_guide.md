@@ -61,10 +61,10 @@ Usually it will be enough with miniconda, as you can later download other packag
 Commands | Description
 -------- | -----------
 ```conda --version``` | Get the current version
-```conda info                                  | Verify conda is installed, check version 
-```conda update conda                          | Updates version if available
+```conda info```                                  | Verify conda is installed, check version 
+```conda update conda```                          | Updates version if available
 
-``` create -n ENVIRONMENT python=2.7```| Creates an environment for a python distribution
+``` create -n ENVIRONMENT python=2.7```  | Creates an environment for a python distribution
 ```conda install PACKAGENAME ```                  | Installs a package included in Anaconda
 ```source activate ENVIRONMENT  ```               | Activates environment
 ```source deactivate ENVIRONMENT```               | Deactivates environment
