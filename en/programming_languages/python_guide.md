@@ -31,9 +31,12 @@ The IDEs I prefer for python are:
 
 ## Visual Studio Code
 
-A short guide for installing and configuring visual studio code for python.
+A short guide for installing and configuring [visual studio code for python](https://code.visualstudio.com/docs/languages/python).
 1. **[Download](https://code.visualstudio.com/) Visual Studio Code**
 2. **[Installation](https://code.visualstudio.com/docs/setup/linux)**
+3. Add Visual Studio Code **extensions** for python:
+  * Python extension for Visual Studio Code: Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
+  
 
 # Style
 
