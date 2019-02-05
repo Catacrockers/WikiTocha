@@ -14,6 +14,8 @@ Here are some fundamental programming tools for control version, code analysis, 
 
 ## Tools
 
+* Git: TODO
+* [Mercurial](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_tools/mercurial.md): a condensed cheatsheet
 * [Codacy](https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy)
 * [SonarQube](http://www.sonarqube.org/), Software analytics, sonar self-hosted.
 * [Travis CI](https://docs.travis-ci.com/user/getting-started/), GNU/Linux & Mac test code
