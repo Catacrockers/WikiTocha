@@ -74,7 +74,7 @@ Commands | Description
 ```conda env update < env.yml     ```             | Update current environment from file
 ```conda env update -n ENVIRONMENT < env.yml```   | Update environment from file
 ```conda list     ```                             | View list of packages and versions installed in active environment
-```conda list | grep pytest```                    | Check if pytest installed in current environment
+<code>conda list &#124; grep pytest</code>        | Check if pytest installed in current environment
 
 Other conda cheatsheets:
 * [kapeli cheatsheet](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
