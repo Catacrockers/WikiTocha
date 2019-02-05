@@ -46,6 +46,9 @@ Python can be used in a virtual environment like [Conda](https://conda.io/docs/i
 
 ## Install Conda
 
+Usually it will be enough with miniconda, as you can later download other packages. So you must follow these steps:
+1.- [Download](https://conda.io/en/latest/miniconda.html) Miniconda: For example python 3.7 for linux 64 [link](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
+
 ## Conda cheatsheet
 
 ```
@@ -66,8 +69,6 @@ conda env update -n ENVIRONMENT < env.yml   # Update environment from file
 
 conda list                                  # View list of packages and versions installed in active environment
 conda list | grep pytest                    # Check if pytest installed in current environment
-
-
 ```
 Other conda cheatsheets:
 * [kapeli cheatsheet](https://kapeli.com/cheat_sheets/Conda.docset/Contents/Resources/Documents/index)
