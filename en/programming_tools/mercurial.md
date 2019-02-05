@@ -6,6 +6,7 @@ A condensed **cheatsheet** for Mercurial
 
 Command | Description
 -------- | -----------
+hg clone [url] | clones remote repository
 hg pull | get latest changes
 hg add | adds new files
 hg commit -m "Message" | add changes to commit with -m for message
