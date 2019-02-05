@@ -7,3 +7,7 @@ Here is a collection of handy tutorials that teach interesting skills and concep
 ## Python
 
 [The Hitchhicker's guide to python](https://docs.python-guide.org/intro/learning/)
+
+# Cheatsheets
+
+* [ReStructuredText](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst)
