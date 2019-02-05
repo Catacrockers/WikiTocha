@@ -6,9 +6,12 @@ A condensed **cheatsheet** for Mercurial
 
 Command | Description
 -------- | -----------
+hg init  | Inits control version for current folder
 hg clone [url] | clones remote repository
 hg pull | get latest changes
+hg push | pushes changes to remote
 hg add | adds new files
+hg remove | removes specified files
 hg commit -m "Message" | add changes to commit with -m for message
 hg commit --interactive | select which changes you want to include in the commit
 hg addremove | adds new files and removes file not in your file system
