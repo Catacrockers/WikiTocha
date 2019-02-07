@@ -1,6 +1,7 @@
 [Back](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_languages/main.md)
 
 # A guide for Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" alt="python" width="50"/>
 
 Python interpreted language, Python has a design philosophy which emphasizes code readability and a syntax which allows programmers to express concepts in fewer lines of code. Exist 2 versions: Python 2.x and Python 3.x. Always write in version 3, v2 provide compatibility with version 3 and it is more reliable and maintainable.
 
