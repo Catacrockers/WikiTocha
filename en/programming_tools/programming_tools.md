@@ -15,13 +15,12 @@ Here are some fundamental programming tools for control version, code analysis, 
 ## Tools
 
 * Git: TODO
-* [Mercurial](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_tools/mercurial.md) <img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/mercurial.png" height=20/>: a condensed cheatsheet
-* [Codacy](https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy) <img src="https://seeklogo.com/images/C/codacy-logo-1A40ABD314-seeklogo.com.png" height=20/>
+* [Mercurial](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_tools/mercurial.md) <img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/mercurial.png" height=25/>: a condensed cheatsheet
+* [Codacy](https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy) <img src="https://seeklogo.com/images/C/codacy-logo-1A40ABD314-seeklogo.com.png" height=25/>
 * [SonarQube](http://www.sonarqube.org/), Software analytics, sonar self-hosted.
-* [Travis CI](https://docs.travis-ci.com/user/getting-started/)  <img src="https://travis-ci.com/images/logos/TravisCI-Mascot-pride.png" height=20/>, GNU/Linux & Mac test code
-* [Jenkins](https://jenkins.io/) <img src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2" height=20/> 
+* [Travis CI](https://docs.travis-ci.com/user/getting-started/)  <img src="https://travis-ci.com/images/logos/TravisCI-Mascot-pride.png" height=25/>, GNU/Linux & Mac test code
+* [Jenkins](https://jenkins.io/) <img src="https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2" height=25/> 
 * [Pylint](https://www.pylint.org/), Python code analysis
-https://files.startupranking.com/startup/thumb/1987_0af75f8bc139f0bc6de33fc0352c715834b6f76b_codacy_l.png
 # Virtualization
 
 ## Docker
