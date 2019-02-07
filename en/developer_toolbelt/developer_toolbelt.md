@@ -8,6 +8,8 @@ If you want to be a good developer you just need attitude and know that the foll
 
 - [StackOverflow](https://stackoverflow.com/): For every quenstion you have you must search first in StackOverflow. 90% of your programming questions are already solved. The rest are just your specific case. 
 
+<img src="https://banner2.kisspng.com/20180623/gao/kisspng-stack-overflow-software-developer-comparison-of-q-5b2f0e50e58d91.9053241615298105129403.jpg" height="50">
+
 - [HackerRank](https://www.hackerrank.com): Train daily with HackerRank. You have many challenges for all languages. Do some gym every day and keep away from getting rusty.
 
 - [Github](https://github.com/): Before you start a new project you should do some research in Github. Most well-known libraries are hosted here and you can learn a lot from this community. Look for projects with a high number of stars and contributors and have a look to the code, issues, pull requests, documentation, etc.
