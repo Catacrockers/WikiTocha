@@ -31,7 +31,9 @@ The IDEs I prefer for python are:
 * Visual Studio Code
 * Pycharm
 
-## Visual Studio Code
+## Visual Studio Code 
+
+![VSCode](http://i.imgur.com/Rq9TURL.png)
 
 A short guide for installing and configuring [visual studio code for python](https://code.visualstudio.com/docs/languages/python).
 1. **[Download](https://code.visualstudio.com/) Visual Studio Code**
