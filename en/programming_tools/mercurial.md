@@ -1,6 +1,6 @@
 [Back](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_tools/programming_tools.md)
 
-# Mercurial (hg)
+# Mercurial (hg)  <img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/mercurial.png" height=50>
 
 A condensed **cheatsheet** for Mercurial
 
