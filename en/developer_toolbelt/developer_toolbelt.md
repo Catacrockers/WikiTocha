@@ -14,6 +14,8 @@ If you want to be a good developer you just need attitude and know that the foll
 
 - [Github](https://github.com/): Before you start a new project you should do some research in Github. Most well-known libraries are hosted here and you can learn a lot from this community. Look for projects with a high number of stars and contributors and have a look to the code, issues, pull requests, documentation, etc.
 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50">
+
 - IDE: Choose the right IDE for your project. There are some IDEs that fit for many languages, but maybe in some cases there is a **"best"** IDE. You must search for and IDE that provides debugging, linting, intellisense, console, profiling, etc. The most important is that you feel confortable with the IDE and it saves you time.
 
 - [AlternativeTo](https://alternativeto.net/): Full and rich information system to search software alternatives. It is possible to filter by license type and system. Also it is possible to vote and contribute with alternatives making the system information more social because it is built with the users effort.
