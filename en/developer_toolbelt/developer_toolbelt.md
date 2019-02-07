@@ -8,7 +8,7 @@ If you want to be a good developer you just need attitude and know that the foll
 
 - [StackOverflow](https://stackoverflow.com/): For every quenstion you have you must search first in StackOverflow. 90% of your programming questions are already solved. The rest are just your specific case. 
 
-<img src="https://banner2.kisspng.com/20180623/gao/kisspng-stack-overflow-software-developer-comparison-of-q-5b2f0e50e58d91.9053241615298105129403.jpg" height="50">
+<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-logo.png?v=9c558ec15d8a" height="50">
 
 - [HackerRank](https://www.hackerrank.com): Train daily with HackerRank. You have many challenges for all languages. Do some gym every day and keep away from getting rusty.
 
