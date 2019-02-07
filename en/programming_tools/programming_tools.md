@@ -18,7 +18,7 @@ Here are some fundamental programming tools for control version, code analysis, 
 * [Mercurial](https://github.com/Catacrockers/WikiTocha/blob/master/en/programming_tools/mercurial.md) <img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/mercurial.png" height=20/>: a condensed cheatsheet
 * [Codacy](https://support.codacy.com/hc/en-us/articles/207278449-Getting-started-with-Codacy) <img src="https://seeklogo.com/images/C/codacy-logo-1A40ABD314-seeklogo.com.png" height=20/>
 * [SonarQube](http://www.sonarqube.org/), Software analytics, sonar self-hosted.
-* [Travis CI](https://docs.travis-ci.com/user/getting-started/), GNU/Linux & Mac test code
+* [Travis CI](https://docs.travis-ci.com/user/getting-started/)  <img src="https://travis-ci.com/images/logos/TravisCI-Mascot-pride.png" height=20/>, GNU/Linux & Mac test code
 * [Jenkins](https://jenkins.io/),
 * [Pylint](https://www.pylint.org/), Python code analysis
 https://files.startupranking.com/startup/thumb/1987_0af75f8bc139f0bc6de33fc0352c715834b6f76b_codacy_l.png
