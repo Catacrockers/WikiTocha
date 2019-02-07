@@ -32,7 +32,7 @@ The IDEs I prefer for python are:
 * Pycharm
 
 ## Visual Studio Code 
-<img src="http://i.imgur.com/Rq9TURL.png" alt="vscode" style="width:60px;"/>
+<img src="http://i.imgur.com/Rq9TURL.png" alt="vscode" width="50"/>
 
 
 A short guide for installing and configuring [visual studio code for python](https://code.visualstudio.com/docs/languages/python).
