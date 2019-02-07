@@ -12,6 +12,8 @@ If you want to be a good developer you just need attitude and know that the foll
 
 - [HackerRank](https://www.hackerrank.com): Train daily with HackerRank. You have many challenges for all languages. Do some gym every day and keep away from getting rusty.
 
+   <img src="https://camo.githubusercontent.com/bcb153b5a4eaa2bf3f97776188c6d0d9f2ff6ce5/68747470733a2f2f64336b65757a6562326372686b6e2e636c6f756466726f6e742e6e65742f6861636b657272616e6b2f6173736574732f7374796c6567756964652f6c6f676f5f776f72646d61726b2d66356335656236316162306131353463336564396564613234643062396533312e737667" height="50">
+
 - [Github](https://github.com/): Before you start a new project you should do some research in Github. Most well-known libraries are hosted here and you can learn a lot from this community. Look for projects with a high number of stars and contributors and have a look to the code, issues, pull requests, documentation, etc.
 
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50">
