@@ -24,7 +24,7 @@ If you are a python developer you need to set up your IDE, your environment, kno
 
 # Choose your IDE
 
-Your python IDE must provide IntellinSense, linting, debugging, a built in console and other tools you consider useful.
+Your python IDE must provide IntelliSense (code-completion aid), linting, debugging, a built in console and other tools you consider useful.
 
 The IDEs I prefer for python are:
 
