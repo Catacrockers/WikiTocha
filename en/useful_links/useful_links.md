@@ -27,4 +27,5 @@ with observable streams
 + [Martin Fowler](https://www.martinfowler.com/)
 + [Clean coder blog](https://blog.cleancoder.com/): Robert C. Martin's blog (**Uncle Bob**)
 + [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)): reactive and functional programming
++ [Railway Oriented Progamming (functional programming)](https://fsharpforfunandprofit.com/rop/)
 
