@@ -36,7 +36,7 @@ The IDEs I prefer for python are:
 <img src="http://i.imgur.com/Rq9TURL.png" alt="vscode" width="50"/>
 
 
-A short guide for installing and configuring [visual studio code for python](https://code.visualstudio.com/docs/languages/python).
+A short guide for installing and configuring [visual studio code for python](https://code.visualstudio.com/docs/languages/python). Also you can read this complete tutorial on [python development with visual studio code](https://realpython.com/python-development-visual-studio-code/) from *real python*.
 1. **[Download](https://code.visualstudio.com/) Visual Studio Code**
 2. **[Installation](https://code.visualstudio.com/docs/setup/linux)**
 3. Add Visual Studio Code **extensions** for python:
