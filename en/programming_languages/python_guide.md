@@ -119,11 +119,12 @@ To use C libraries, [take a look](https://docs.python.org/3.6/extending/extendin
 You can learn python by programming, working on projects and of course improve your capabilities following tutorials. Bellow you will find a list of usefull python resources for learning.
 
 * [Real python tutorials](https://realpython.com/)
+* [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/), all info you need.
 
 # References
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), scripting language. Recommended for non-critical crossplatform algorithms.
-* [Python guide](http://docs.python-guide.org/en/latest/), all info you need.
+
 * [Pip](https://pypi.python.org/pypi/pip), the PyPA recommended tool for installing Python packages.
 * [The zen of python](https://www.python.org/dev/peps/pep-0020/), Tim Peters recommends
 * [Virtual environment](https://itsfoss.com/python-setup-linux/)
