@@ -119,7 +119,7 @@ To use C libraries, [take a look](https://docs.python.org/3.6/extending/extendin
 You can learn python by programming, working on projects and of course improve your capabilities following tutorials. Bellow you will find a list of usefull python resources for learning.
 
 * [Real python tutorials](https://realpython.com/)
-* [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/), all info you need.
+* [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/): This handcrafted guide exists to provide both novice and expert Python developers a best practice handbook to the installation, configuration, and usage of Python on a daily basis.
 
 # References
 
