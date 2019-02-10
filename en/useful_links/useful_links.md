@@ -21,11 +21,12 @@ Some links you must check, and some good books to have in mind.
 + [Manifesto for agile software development](https://agilemanifesto.org/)
 + [ReactiveX](http://reactivex.io/): Asynchronous programming
 with observable streams
++ [Railway Oriented Progamming (functional programming)](https://fsharpforfunandprofit.com/rop/)
+
 
 ## Software gurus
 
 + [Martin Fowler](https://www.martinfowler.com/)
 + [Clean coder blog](https://blog.cleancoder.com/): Robert C. Martin's blog (**Uncle Bob**)
 + [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)): reactive and functional programming
-+ [Railway Oriented Progamming (functional programming)](https://fsharpforfunandprofit.com/rop/)
 
