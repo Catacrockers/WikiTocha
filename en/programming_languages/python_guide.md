@@ -114,6 +114,12 @@ To use C libraries, [take a look](https://docs.python.org/3.6/extending/extendin
 * [Unit test python guide](http://docs.python-guide.org/en/latest/writing/tests/)
 * [Unit test reference](https://docs.python.org/3/library/unittest.html)
 
+# Learning Python
+
+You can learn python by programming, working on projects and of course improve your capabilities following tutorials. Bellow you will find a list of usefull python resources for learning.
+
+* [Real python tutorials](https://realpython.com/)
+
 # References
 
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), scripting language. Recommended for non-critical crossplatform algorithms.
