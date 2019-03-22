@@ -19,8 +19,13 @@ A very important aspect of clean code is naming because names are an oportunity 
    - methods have verb names
       - if they are booleans then names must be predicates
       - if they are properties thay can be nouns
-+ Names for functions used frequently must be short, private names can be longer and descriptive
-
++ The length of a variable name should be proportional to its scope.  
++ The length of a function or class name is the inverse.
++ Encapsulate meaningful names in a context by enclosing them in 
+ - well-named classes
+ - functions
+ - namespaces
+ 
 ## Functions
 
 Functions follow these rules:
