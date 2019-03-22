@@ -8,9 +8,9 @@ In this section several topics for writing clean code will be summarized.
 ## Naming
 
 A very important aspect of clean code is naming because names are an oportunity to communicate with other developers.
-+ Choose your names carefully
-+ Communicate your intention with names
-+ Dont disinformate with your names: it must say what it means and mean what it says
++ Choose your names carefully: they are a tool you can use to **communicate with others**.
++ **Communicate your intention** with names: if you need to put a comment or look at code, you failed to communicate your intent.
++ Dont **disinformate** with your names: it must say what it means and mean what it says. Don't let names degrade with refactors.
 + Write pronounceable names
 + Don't use encondings, variable types etc in names
 + Names should help to read code like well written prose
