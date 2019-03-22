@@ -13,7 +13,12 @@ A very important aspect of clean code is naming because names are an oportunity 
 + Dont **disinformate** with your names: it must say what it means and mean what it says. Don't let names degrade with refactors.
 + Write **pronounceable names**: people are going to talk about the code
 + Don't use encondings, variable types etc in names: use powerfull IDEs and tests for checking types.
-+ Names should help to read code like well written prose
++ Names should help to read code like well written prose: use parts of speech:
+   - classes have nouns names
+   - variables have nouns names
+   - methods have verb names
+      - if they are booleans then names must be predicates
+      - if they are properties thay can be nouns
 + Names for functions used frequently must be short, private names can be longer and descriptive
 
 ## Functions
