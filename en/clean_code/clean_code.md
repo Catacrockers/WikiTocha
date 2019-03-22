@@ -22,9 +22,9 @@ A very important aspect of clean code is naming because names are an oportunity 
 + The length of a variable name should be proportional to its scope.  
 + The length of a function or class name is the inverse.
 + Encapsulate meaningful names in a context by enclosing them in 
- - well-named classes
- - functions
- - namespaces
+   - well-named classes
+   - functions
+   - namespaces
  
 ## Functions
 
