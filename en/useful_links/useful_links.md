@@ -14,7 +14,8 @@ Some links you must check, and some good books to have in mind.
 + **Test Driven Development: By Example** - Kent Beck
 + **Design Patterns: Elements of Reusable Object-Oriented Software** - John Vlissides, Ralph Johnson, Richard Helm, Erich Gamma
 + **Refactoring Improving the Design of Existing Code** - Martin Fowler (with Kent Beck)
-+ [**Designing data-intensive applications**](https://dataintensive.net) - 
++ [**Designing data-intensive applications**](https://dataintensive.net) - Martin Kleppmann
++ [**Release it!**](https://pragprog.com/book/mnee2/release-it-second-edition) -
 
 ## About code development
 
